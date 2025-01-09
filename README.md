@@ -17,7 +17,7 @@ padding: 20px;
 max-width: 600px;
 background-color: #f1ddb8;
 margin: 0 auto;
-}
+} 
 h2 {
 text-align: center;
 }
